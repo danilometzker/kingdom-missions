@@ -1,0 +1,1115 @@
+[
+    {
+        "id": 0,
+        "Side Quest Name": "Spotting Spot",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Lester",
+        "Reward": "50 RupeesSwift CarrotSpot the Horse",
+        "Completed": "Spotting Spot",
+        "Guide": "https://www.youtube.com/watch?v=DDkq6gI_bUw&pp=ygUiU3BvdHRpbmcgU3BvdCBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
+    },
+    {
+        "id": 1,
+        "Side Quest Name": "Village Attacked by Pirates",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Garini",
+        "Reward": "Mighty Salt-Grilled Crab",
+        "Completed": "Village Attacked by Pirates"
+    },
+    {
+        "id": 2,
+        "Side Quest Name": "Today's Menu",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Burmano",
+        "Reward": "Fruit and Mushroom Mix",
+        "Completed": "Today's Menu"
+    },
+    {
+        "id": 3,
+        "Side Quest Name": "The Incomplete Stable",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Karson",
+        "Reward": "Mini Stable",
+        "Completed": "The Incomplete Stable"
+    },
+    {
+        "id": 4,
+        "Side Quest Name": "WANTED: Stone Talus",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Gralens",
+        "Reward": "100 Rupees",
+        "Completed": "WANTED: Stone Talus"
+    },
+    {
+        "id": 5,
+        "Side Quest Name": "WANTED: Molduga",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Gralens",
+        "Reward": "100 Rupees",
+        "Completed": "WANTED: Molduga"
+    },
+    {
+        "id": 6,
+        "Side Quest Name": "WANTED: Hinox",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Gralens",
+        "Reward": "100 Rupees",
+        "Completed": "WANTED: Hinox"
+    },
+    {
+        "id": 7,
+        "Side Quest Name": "Unknown Sky Giant",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Gralens",
+        "Reward": "100 Rupees",
+        "Completed": "Unknown Sky Giant"
+    },
+    {
+        "id": 8,
+        "Side Quest Name": "Unknown Three-Headed Monster",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Gralens",
+        "Reward": "100 Rupees",
+        "Completed": "Unknown Three-Headed Monster"
+    },
+    {
+        "id": 9,
+        "Side Quest Name": "Unknown Huge Silhouette",
+        "Starting Settlement Region": "Lookout Landing, Central Hyrule",
+        "Quest Giver": "Gralens",
+        "Reward": "100 Rupees",
+        "Completed": "Unknown Huge Silhouette"
+    },
+    {
+        "id": 10,
+        "Side Quest Name": "The Horse Guard's Request",
+        "Starting Settlement Region": "Outskirt Stable, Central Hyrule",
+        "Quest Giver": "Toffa",
+        "Reward": "100 RupeesPony Point",
+        "Completed": "The Horse Guard's Request"
+    },
+    {
+        "id": 11,
+        "Side Quest Name": "A Picture for Outskirt Stable",
+        "Starting Settlement Region": "Outskirt Stable, Central Hyrule",
+        "Quest Giver": "Embry",
+        "Reward": "Pony PointEgg Tart",
+        "Completed": "A Picture for Outskirt Stable"
+    },
+    {
+        "id": 12,
+        "Side Quest Name": "Feathered Fugitives",
+        "Starting Settlement Region": "Riverside Stable, Central Hyrule",
+        "Quest Giver": "Teli",
+        "Reward": "100 Rupees",
+        "Completed": "Feathered Fugitives"
+    },
+    {
+        "id": 13,
+        "Side Quest Name": "A Picture for Riverside Stable",
+        "Starting Settlement Region": "Riverside Stable, Central Hyrule",
+        "Quest Giver": "Ember",
+        "Reward": "Pony PointEnergizing Crab Stir-Fry",
+        "Completed": "A Picture for Riverside Stable"
+    },
+    {
+        "id": 14,
+        "Side Quest Name": "Horse-Drawn Dreams",
+        "Starting Settlement Region": "New Serenne Stable, Hyrule Ridge",
+        "Quest Giver": "Zumi",
+        "Reward": "100 Rupees",
+        "Completed": "Horse-Drawn Dreams"
+    },
+    {
+        "id": 15,
+        "Side Quest Name": "A Picture for New Serenne Stable",
+        "Starting Settlement Region": "New Serenne Stable, Hyrule Ridge",
+        "Quest Giver": "Sprinn",
+        "Reward": "Pony PointBright Tomato Mushroom Stew",
+        "Completed": "A Picture for New Serenne Stable"
+    },
+    {
+        "id": 16,
+        "Side Quest Name": "Genli's Home Cooking",
+        "Starting Settlement Region": "Rito Village, Tabantha Frontier",
+        "Quest Giver": "Genli",
+        "Reward": "Biting Simmered Meat",
+        "Completed": "Genli's Home Cooking"
+    },
+    {
+        "id": 17,
+        "Side Quest Name": "Treasure of the Secret Springs",
+        "Starting Settlement Region": "Rito Village, Tabantha Frontier",
+        "Quest Giver": "Tulin",
+        "Reward": "Vah Medoh Divine Helm",
+        "Completed": "Treasure of the Secret Springs"
+    },
+    {
+        "id": 18,
+        "Side Quest Name": "Molli the Fletcher's Quest",
+        "Starting Settlement Region": "Rito Village, Tabantha Frontier",
+        "Quest Giver": "Molli",
+        "Reward": "x10 Arrows",
+        "Completed": "Molli the Fletcher's Quest"
+    },
+    {
+        "id": 19,
+        "Side Quest Name": "Legacy of the Rito",
+        "Starting Settlement Region": "Rito Village, Tabantha Frontier",
+        "Quest Giver": "Teba",
+        "Reward": "Great Eagle Bow",
+        "Completed": "Legacy of the Rito"
+    },
+    {
+        "id": 20,
+        "Side Quest Name": "Fish for Fletching",
+        "Starting Settlement Region": "Rito Village, Tabantha Frontier",
+        "Quest Giver": "Bedoli",
+        "Reward": "x10 Arrows",
+        "Completed": "Fish for Fletching"
+    },
+    {
+        "id": 21,
+        "Side Quest Name": "The Rito Rope Bridge",
+        "Starting Settlement Region": "Lucky Clover Gazette, Tabantha Frontier",
+        "Quest Giver": "Gesane",
+        "Reward": "100 Rupees",
+        "Completed": "The Rito Rope Bridge"
+    },
+    {
+        "id": 22,
+        "Side Quest Name": "A Picture for Tabantha Bridge Stable",
+        "Starting Settlement Region": "Tabantha Bridge Stable, Hyrule Ridge",
+        "Quest Giver": "Dabi",
+        "Reward": "Pony PointHasty Elixir",
+        "Completed": "A Picture for Tabantha Bridge Stable"
+    },
+    {
+        "id": 23,
+        "Side Quest Name": "A Picture for Snowfield Stable",
+        "Starting Settlement Region": "Snowfield Stable, Hebra Tabantha Tundra",
+        "Quest Giver": "Varke",
+        "Reward": "Pony PointSpicy Meat Stew",
+        "Completed": "A Picture for Snowfield Stable"
+    },
+    {
+        "id": 24,
+        "Side Quest Name": "Crossing the Cold Pool",
+        "Starting Settlement Region": "Corvash Peak, Hebra Mountains",
+        "Quest Giver": "Verla",
+        "Reward": "50 Rupees",
+        "Completed": "Crossing the Cold Pool"
+    },
+    {
+        "id": 25,
+        "Side Quest Name": "Open the Door",
+        "Starting Settlement Region": "Tabantha Hills, Hebra",
+        "Quest Giver": "Jogo",
+        "Reward": "Spicy Elixir",
+        "Completed": "Open the Door"
+    },
+    {
+        "id": 26,
+        "Side Quest Name": "Supply-Eyeing Fliers",
+        "Starting Settlement Region": "Tabantha Hills, Hebra",
+        "Quest Giver": "Huck",
+        "Reward": "50 Rupees",
+        "Completed": "Supply-Eyeing Fliers"
+    },
+    {
+        "id": 27,
+        "Side Quest Name": "The Blocked Cave",
+        "Starting Settlement Region": "Rospro Pass, Hebra Mountains",
+        "Quest Giver": "Mazli",
+        "Reward": "20 Rupees",
+        "Completed": "The Blocked Cave"
+    },
+    {
+        "id": 28,
+        "Side Quest Name": "The Duchess Who Disappeared",
+        "Starting Settlement Region": "Biron Snowshelf, Hebra Mountains",
+        "Quest Giver": "Russ",
+        "Reward": "Strong Zonaite ShieldShield Surfing time trials unlocked",
+        "Completed": "The Duchess Who Disappeared"
+    },
+    {
+        "id": 29,
+        "Side Quest Name": "Kaneli’s Flight Training",
+        "Starting Settlement Region": "Dronoc's Pass, Herba Mountains",
+        "Quest Giver": "Kaneli",
+        "Reward": "50 RupeesFlight Training time trials unlocked",
+        "Completed": "Kaneli’s Flight Training"
+    },
+    {
+        "id": 30,
+        "Side Quest Name": "Cave Mushrooms That Glow",
+        "Starting Settlement Region": "Tabantha Frontier",
+        "Quest Giver": "Nat",
+        "Reward": "Spicy Tomato Mushroom Stew",
+        "Completed": "Cave Mushrooms That Glow"
+    },
+    {
+        "id": 31,
+        "Side Quest Name": "The Captured Tent",
+        "Starting Settlement Region": "Snowfield Stable, Hebra Tabantha Tundra",
+        "Quest Giver": "Nat",
+        "Reward": "Spicy Steamed Mushrooms",
+        "Completed": "The Captured Tent"
+    },
+    {
+        "id": 32,
+        "Side Quest Name": "Who Finds the Haven",
+        "Starting Settlement Region": "Snowfield Stable, Hebra Tabantha Tundra",
+        "Quest Giver": "Nat",
+        "Reward": "Mushrooms",
+        "Completed": "Who Finds the Haven"
+    },
+    {
+        "id": 33,
+        "Side Quest Name": "Whirly Swirly Things",
+        "Starting Settlement Region": "Korok Forest, Great Hyrule Forest",
+        "Quest Giver": "Kula",
+        "Reward": "x5 Endura Carrots",
+        "Completed": "Whirly Swirly Things"
+    },
+    {
+        "id": 34,
+        "Side Quest Name": "The Secret Room",
+        "Starting Settlement Region": "Korok Forest, Great Hyrule Forest",
+        "Quest Giver": "Oaki",
+        "Reward": "Korok Fabric",
+        "Completed": "The Secret Room"
+    },
+    {
+        "id": 35,
+        "Side Quest Name": "Walton's Treasure Hunt",
+        "Starting Settlement Region": "Korok Forest, Great Hyrule Forest",
+        "Quest Giver": "Walton",
+        "Reward": "Forest Dweller's Weapons",
+        "Completed": "Walton's Treasure Hunt"
+    },
+    {
+        "id": 36,
+        "Side Quest Name": "Amber Dealer",
+        "Starting Settlement Region": "Goron City, Eldin Canyon",
+        "Quest Giver": "Ramella",
+        "Reward": "200 Rupees",
+        "Completed": "Amber Dealer"
+    },
+    {
+        "id": 37,
+        "Side Quest Name": "The Ancient City Gorondia!",
+        "Starting Settlement Region": "North of Goron City",
+        "Quest Giver": "Dugby",
+        "Reward": "Zonai Charge",
+        "Completed": "The Ancient City Gorondia!"
+    },
+    {
+        "id": 38,
+        "Side Quest Name": "The Ancient City Gorondia?",
+        "Starting Settlement Region": "Goron City, Eldin",
+        "Quest Giver": "Dugby",
+        "Reward": "Large Zonai Charge",
+        "Completed": "The Ancient City Gorondia?"
+    },
+    {
+        "id": 39,
+        "Side Quest Name": "Soul of the Gorons",
+        "Starting Settlement Region": "Goron City, Eldin",
+        "Quest Giver": "Fugo",
+        "Reward": "Boulder Breaker",
+        "Completed": "Soul of the Gorons"
+    },
+    {
+        "id": 40,
+        "Side Quest Name": "Moon-Gazing Gorons",
+        "Starting Settlement Region": "Goron City, Eldin",
+        "Quest Giver": "Tray",
+        "Reward": "100 Rupees",
+        "Completed": "Moon-Gazing Gorons"
+    },
+    {
+        "id": 41,
+        "Side Quest Name": "The Hidden Treasure at Lizard Lakes",
+        "Starting Settlement Region": "Goron City, Eldin",
+        "Quest Giver": "Bludo",
+        "Reward": "Vah Rudania Divine Helm",
+        "Completed": "The Hidden Treasure at Lizard Lakes"
+    },
+    {
+        "id": 42,
+        "Side Quest Name": "Simmerstone Springs",
+        "Starting Settlement Region": "Goron City, Eldin",
+        "Quest Giver": "Kima",
+        "Reward": "100 Rupees",
+        "Completed": "Simmerstone Springs"
+    },
+    {
+        "id": 43,
+        "Side Quest Name": "Cash In on Ripened Flint",
+        "Starting Settlement Region": "Bedrock Bistro, Eldin",
+        "Quest Giver": "Gomo",
+        "Reward": "1,000 Rupees",
+        "Completed": "Cash In on Ripened Flint"
+    },
+    {
+        "id": 44,
+        "Side Quest Name": "Meat for Meat",
+        "Starting Settlement Region": "Bedrock Bistro, Eldin",
+        "Quest Giver": "Mezer",
+        "Reward": "Large Zonai Charge",
+        "Completed": "Meat for Meat"
+    },
+    {
+        "id": 45,
+        "Side Quest Name": "Rock Roast or Dust",
+        "Starting Settlement Region": "Bedrock Bistro, Eldin",
+        "Quest Giver": "Cooke",
+        "Reward": "Seared Gourmet Steak",
+        "Completed": "Rock Roast or Dust"
+    },
+    {
+        "id": 46,
+        "Side Quest Name": "Mine-Cart Land: Open for Business!",
+        "Starting Settlement Region": "Southern Mine, Eldin",
+        "Quest Giver": "Bayge",
+        "Reward": "20 Rupees",
+        "Completed": "Mine-Cart Land: Open for Business!"
+    },
+    {
+        "id": 47,
+        "Side Quest Name": "Mine-Cart Land: Quickshot Course",
+        "Starting Settlement Region": "Southern Mine, Eldin",
+        "Quest Giver": "Heehl",
+        "Reward": "50 Rupees",
+        "Completed": "Mine-Cart Land: Quickshot Course"
+    },
+    {
+        "id": 48,
+        "Side Quest Name": "Mine-Cart Land: Death Mountain",
+        "Starting Settlement Region": "Southern Mine, Eldin",
+        "Quest Giver": "Kabetta",
+        "Reward": "Goron Fabric",
+        "Completed": "Mine-Cart Land: Death Mountain"
+    },
+    {
+        "id": 49,
+        "Side Quest Name": "A Picture for Woodland Stable",
+        "Starting Settlement Region": "Woodland Stable, Great Hyrule Forest",
+        "Quest Giver": "Kish",
+        "Reward": "Pony PointHasty Vegetable Curry",
+        "Completed": "A Picture for Woodland Stable"
+    },
+    {
+        "id": 50,
+        "Side Quest Name": "A Picture for Foothill Stable",
+        "Starting Settlement Region": "Foothill Stable, Eldin Canyon",
+        "Quest Giver": "Ozunda",
+        "Reward": "Pony PointFireproof Elixir",
+        "Completed": "A Picture for Foothill Stable"
+    },
+    {
+        "id": 51,
+        "Side Quest Name": "Fell into a Well!",
+        "Starting Settlement Region": "Central Hyrule",
+        "Quest Giver": "Dillie",
+        "Reward": "50 Rupees",
+        "Completed": "Fell into a Well!"
+    },
+    {
+        "id": 52,
+        "Side Quest Name": "The Abandoned Laborer",
+        "Starting Settlement Region": "Death Mountain West Tunnel, Eldin",
+        "Quest Giver": "Mota",
+        "Reward": "Large Zonai Charge",
+        "Completed": "The Abandoned Laborer"
+    },
+    {
+        "id": 53,
+        "Side Quest Name": "The Treasure Hunters",
+        "Starting Settlement Region": "Rauru Hillside, Great Hyrule Forest",
+        "Quest Giver": "Domidak",
+        "Reward": "x3 Bomb Flowers",
+        "Completed": "The Treasure Hunters"
+    },
+    {
+        "id": 54,
+        "Side Quest Name": "Misko's Cave of Chests",
+        "Starting Settlement Region": "Cephla Lake, Eldin Canyon",
+        "Quest Giver": "Domidak",
+        "Reward": "Ember Trousers",
+        "Completed": "Misko's Cave of Chests"
+    },
+    {
+        "id": 55,
+        "Side Quest Name": "Misko's Treasure: The Fierce Deity",
+        "Starting Settlement Region": "Cephla Lake, Eldin Canyon",
+        "Quest Giver": "Misko's Letter",
+        "Reward": "Fierce Deity Sword",
+        "Completed": "Misko's Treasure: The Fierce Deity"
+    },
+    {
+        "id": 56,
+        "Side Quest Name": "Misko's Treasure: Twins Manuscript",
+        "Starting Settlement Region": "Cephla Lake, Eldin Canyon",
+        "Quest Giver": "Domidak",
+        "Reward": "Tingle's Shirt",
+        "Completed": "Misko's Treasure: Twins Manuscript"
+    },
+    {
+        "id": 57,
+        "Side Quest Name": "Misko's Treasure: Pirate Manuscript",
+        "Starting Settlement Region": "Cephla Lake, Eldin Canyon",
+        "Quest Giver": "Domidak",
+        "Reward": "Tingle's Tights",
+        "Completed": "Misko's Treasure: Pirate Manuscript"
+    },
+    {
+        "id": 58,
+        "Side Quest Name": "Misko's Treasure: Heroines Manuscript",
+        "Starting Settlement Region": "Cephla Lake, Eldin Canyon",
+        "Quest Giver": "Domidak",
+        "Reward": "Tingle's Hood",
+        "Completed": "Misko's Treasure: Heroines Manuscript"
+    },
+    {
+        "id": 59,
+        "Side Quest Name": "Misko's Treasure of Awakening I",
+        "Starting Settlement Region": "Goronbi River Cave, Eldin",
+        "Quest Giver": "Misko's Letter",
+        "Reward": "Tunic of Awakening",
+        "Completed": "Misko's Treasure of Awakening I"
+    },
+    {
+        "id": 60,
+        "Side Quest Name": "Misko's Treasure of Awakening II",
+        "Starting Settlement Region": "Ancient Columns Cave, Tabantha Frontier",
+        "Quest Giver": "Misko's Letter",
+        "Reward": "Trousers of Awakening",
+        "Completed": "Misko's Treasure of Awakening II"
+    },
+    {
+        "id": 61,
+        "Side Quest Name": "Misko's Treasure of Awakening III",
+        "Starting Settlement Region": "Coliseum Ruins Cave, Central Hyrule",
+        "Quest Giver": "Misko's Letter",
+        "Reward": "Mask of Awakening",
+        "Completed": "Misko's Treasure of Awakening III"
+    },
+    {
+        "id": 62,
+        "Side Quest Name": "The Tarrey Town Race Is On!",
+        "Starting Settlement Region": "Tarrey Town Race, Akkala",
+        "Quest Giver": "Fernison",
+        "Reward": "Zonai Charges",
+        "Completed": "The Tarrey Town Race Is On!"
+    },
+    {
+        "id": 63,
+        "Side Quest Name": "Secrets Within",
+        "Starting Settlement Region": "Hudson Construction Site, Akkala",
+        "Quest Giver": "Pulcho",
+        "Reward": "Sundelion",
+        "Completed": "Secrets Within"
+    },
+    {
+        "id": 64,
+        "Side Quest Name": "Master the Vehicle Prototype",
+        "Starting Settlement Region": "Hudson Construction Site, Akkala",
+        "Quest Giver": "Fernison",
+        "Reward": "100 RupeesStable Sleepover Ticket",
+        "Completed": "Master the Vehicle Prototype"
+    },
+    {
+        "id": 65,
+        "Side Quest Name": "Home on Arrange",
+        "Starting Settlement Region": "Tarrey Town, Akkala",
+        "Quest Giver": "Rhondson",
+        "Reward": "Ability to Build Link's Home",
+        "Completed": "Home on Arrange"
+    },
+    {
+        "id": 66,
+        "Side Quest Name": "Strongest in the World",
+        "Starting Settlement Region": "East Akkala Stable, Akkala",
+        "Quest Giver": "Chabi",
+        "Reward": "50 Rupees",
+        "Completed": "Strongest in the World"
+    },
+    {
+        "id": 67,
+        "Side Quest Name": "The Gathering Pirates",
+        "Starting Settlement Region": "East Akkala Stable, Akkala",
+        "Quest Giver": "Aya",
+        "Reward": "x2 Pony PointsEndura Carrot",
+        "Completed": "The Gathering Pirates"
+    },
+    {
+        "id": 68,
+        "Side Quest Name": "A Picture for East Akkala Stable",
+        "Starting Settlement Region": "East Akkala Stable",
+        "Quest Giver": "Rudi",
+        "Reward": "Pony PointMeat and Rice Bowl",
+        "Completed": "A Picture for East Akkala Stable"
+    },
+    {
+        "id": 69,
+        "Side Quest Name": "Eldin's Colossal Fossil",
+        "Starting Settlement Region": "East Akkala Stable, Akkala",
+        "Quest Giver": "Loone",
+        "Reward": "50 Rupees",
+        "Completed": "Eldin's Colossal Fossil"
+    },
+    {
+        "id": 70,
+        "Side Quest Name": "Hebra's Colossal Fossil",
+        "Starting Settlement Region": "Hebra North Summit, Hebra Mountains",
+        "Quest Giver": "Loone",
+        "Reward": "50 Rupees",
+        "Completed": "Hebra's Colossal Fossil"
+    },
+    {
+        "id": 71,
+        "Side Quest Name": "Gerudo's Colossal Fossil",
+        "Starting Settlement Region": "Gerudo Great Skeleton, Gerudo Desert",
+        "Quest Giver": "Loone",
+        "Reward": "50 Rupees",
+        "Completed": "Gerudo's Colossal Fossil"
+    },
+    {
+        "id": 72,
+        "Side Quest Name": "One-Hit Wonder!",
+        "Starting Settlement Region": "South Akkala Stable",
+        "Quest Giver": "Parcy",
+        "Reward": "Various Gemstones",
+        "Completed": "One-Hit Wonder!"
+    },
+    {
+        "id": 73,
+        "Side Quest Name": "A Picture for South Akkala Stable",
+        "Starting Settlement Region": "South Akkala Stable",
+        "Quest Giver": "Dmitri",
+        "Reward": "Pony PointPrime Meat Stew",
+        "Completed": "A Picture for South Akkala Stable"
+    },
+    {
+        "id": 74,
+        "Side Quest Name": "True Treasure",
+        "Starting Settlement Region": "Lodrum Headland, Lanayru",
+        "Quest Giver": "Kodah",
+        "Reward": "x2 Opal",
+        "Completed": "True Treasure"
+    },
+    {
+        "id": 75,
+        "Side Quest Name": "Secret Treasure Under the Great Fish",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Sidon",
+        "Reward": "Vah Ruta Divine Helm",
+        "Completed": "Secret Treasure Under the Great Fish"
+    },
+    {
+        "id": 76,
+        "Side Quest Name": "The Never-Ending Lecture",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Chroma",
+        "Reward": "Zora Helm",
+        "Completed": "The Never-Ending Lecture"
+    },
+    {
+        "id": 77,
+        "Side Quest Name": "The Moonlit Princess",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Seggin",
+        "Reward": "Zora Sword",
+        "Completed": "The Moonlit Princess"
+    },
+    {
+        "id": 78,
+        "Side Quest Name": "The Fort at Ja'Abu Ridge",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Gaddison",
+        "Reward": "100 Rupees",
+        "Completed": "The Fort at Ja'Abu Ridge"
+    },
+    {
+        "id": 79,
+        "Side Quest Name": "Glory of the Zora",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Dento",
+        "Reward": "Lightscale Trident",
+        "Completed": "Glory of the Zora"
+    },
+    {
+        "id": 80,
+        "Side Quest Name": "A Crabulous Deal",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Cleff",
+        "Reward": "Sapphire",
+        "Completed": "A Crabulous Deal"
+    },
+    {
+        "id": 81,
+        "Side Quest Name": "A Wife Wafted Away",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Fronk",
+        "Reward": "Hearty Bass Meal",
+        "Completed": "A Wife Wafted Away"
+    },
+    {
+        "id": 82,
+        "Side Quest Name": "A Token of Friendship",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Yona",
+        "Reward": "Zora Greaves",
+        "Completed": "A Token of Friendship"
+    },
+    {
+        "id": 83,
+        "Side Quest Name": "A Picture for Wetland Stable",
+        "Starting Settlement Region": "Wetland Stable, West Necluda",
+        "Quest Giver": "Lawdon",
+        "Reward": "Pony PointElectro Elixir",
+        "Completed": "A Picture for Wetland Stable"
+    },
+    {
+        "id": 84,
+        "Side Quest Name": "An Uninvited Guest",
+        "Starting Settlement Region": "Wetland Stable, West Necluda",
+        "Quest Giver": "Ami",
+        "Reward": "x2 Pony Points",
+        "Completed": "An Uninvited Guest"
+    },
+    {
+        "id": 85,
+        "Side Quest Name": "The Blue Stone",
+        "Starting Settlement Region": "East Resevoir Lake, Lanayru",
+        "Quest Giver": "Ledo",
+        "Reward": "Zora Fabric",
+        "Completed": "The Blue Stone"
+    },
+    {
+        "id": 86,
+        "Side Quest Name": "The Ultimate Dish?",
+        "Starting Settlement Region": "Rikoka Hills Well, Lanayru",
+        "Quest Giver": "Moza",
+        "Reward": "Repair Ruined Meals",
+        "Completed": "The Ultimate Dish?"
+    },
+    {
+        "id": 87,
+        "Side Quest Name": "Mired in Muck",
+        "Starting Settlement Region": "Zora's Domain, Lanayru",
+        "Quest Giver": "Bazz",
+        "Reward": "Zora Spear",
+        "Completed": "Mired in Muck"
+    },
+    {
+        "id": 88,
+        "Side Quest Name": "Out of the Inn",
+        "Starting Settlement Region": "Kakariko Village, West Necluda",
+        "Quest Giver": "Dai",
+        "Reward": "Sticky ElixirRestores Use of Inn",
+        "Completed": "Out of the Inn"
+    },
+    {
+        "id": 89,
+        "Side Quest Name": "Follow the Cuccos",
+        "Starting Settlement Region": "Kakariko Village, West Necluda",
+        "Quest Giver": "Trissa",
+        "Reward": "Eggs Restocked at High Spirits Produce",
+        "Completed": "Follow the Cuccos"
+    },
+    {
+        "id": 90,
+        "Side Quest Name": "A Trip Through History",
+        "Starting Settlement Region": "Kakariko Village, West Necluda",
+        "Quest Giver": "Bugut",
+        "Reward": "x3 Thunderwing Butterflies",
+        "Completed": "A Trip Through History"
+    },
+    {
+        "id": 91,
+        "Side Quest Name": "Codgers' Quarrel",
+        "Starting Settlement Region": "Kakariko Village, West Necluda",
+        "Quest Giver": "Trissa",
+        "Reward": "Other groceries restocked at High Spirits Produce",
+        "Completed": "Codgers' Quarrel"
+    },
+    {
+        "id": 92,
+        "Side Quest Name": "Gloom-Borne Illness",
+        "Starting Settlement Region": "Kakariko Village, West Necluda",
+        "Quest Giver": "Lasli",
+        "Reward": "Reduced Prices at clothing store Enchanted",
+        "Completed": "Gloom-Borne Illness"
+    },
+    {
+        "id": 93,
+        "Side Quest Name": "A New Champion's Tunic",
+        "Starting Settlement Region": "Hateno Village, East Necluda",
+        "Quest Giver": "Zelda's Diary",
+        "Reward": "Champion's Leathers",
+        "Completed": "A New Champion's Tunic"
+    },
+    {
+        "id": 94,
+        "Side Quest Name": "Teach Me a Lesson I",
+        "Starting Settlement Region": "Hateno School, East Necluda",
+        "Quest Giver": "Symin",
+        "Reward": "x10 Hylian Rice",
+        "Completed": "Teach Me a Lesson I"
+    },
+    {
+        "id": 95,
+        "Side Quest Name": "Teach Me a Lesson II",
+        "Starting Settlement Region": "Hateno School, East Necluda",
+        "Quest Giver": "Symin",
+        "Reward": "Access to the school's field for planting",
+        "Completed": "Teach Me a Lesson II"
+    },
+    {
+        "id": 96,
+        "Side Quest Name": "Dantz's Prize Cows",
+        "Starting Settlement Region": "Hateno Village's Lake Sumac, East Necluda",
+        "Quest Giver": "Dantz",
+        "Reward": "Fresh Milk",
+        "Completed": "Dantz's Prize Cows"
+    },
+    {
+        "id": 97,
+        "Side Quest Name": "Homegrown in Hateno",
+        "Starting Settlement Region": "Hateno Village, East Necluda",
+        "Quest Giver": "Mayor Reede",
+        "Reward": "x10 Sun Pumpkin",
+        "Completed": "Homegrown in Hateno"
+    },
+    {
+        "id": 98,
+        "Side Quest Name": "Photographing a Chuchu",
+        "Starting Settlement Region": "Hateno Village, East Necluda",
+        "Quest Giver": "Sayge",
+        "Reward": "Paraglider Fabric",
+        "Completed": "Photographing a Chuchu"
+    },
+    {
+        "id": 99,
+        "Side Quest Name": "Uma's Garden",
+        "Starting Settlement Region": "Hateno Village, East Necluda",
+        "Quest Giver": "Uma",
+        "Reward": "Ability to grow vegetables",
+        "Completed": "Uma's Garden"
+    },
+    {
+        "id": 100,
+        "Side Quest Name": "Manny's Beloved",
+        "Starting Settlement Region": "Hateno Village, East Necluda",
+        "Quest Giver": "Manny",
+        "Reward": "x10 Rushrooms",
+        "Completed": "Manny's Beloved"
+    },
+    {
+        "id": 101,
+        "Side Quest Name": "Lurelin Resort Project",
+        "Starting Settlement Region": "Lurelin Village, East Necluda",
+        "Quest Giver": "Rozel",
+        "Reward": "Lurelin Water Rally",
+        "Completed": "Lurelin Resort Project"
+    },
+    {
+        "id": 102,
+        "Side Quest Name": "Dad's Blue Shirt",
+        "Starting Settlement Region": "Lurelin Village, East Necluda",
+        "Quest Giver": "Zuta",
+        "Reward": "Island Lobster Shirt",
+        "Completed": "Dad's Blue Shirt"
+    },
+    {
+        "id": 103,
+        "Side Quest Name": "A Way to Trade, Washed Away",
+        "Starting Settlement Region": "Lurelin Village, East Necluda",
+        "Quest Giver": "Garini",
+        "Reward": "Star Fragment",
+        "Completed": "A Way to Trade, Washed Away"
+    },
+    {
+        "id": 104,
+        "Side Quest Name": "Rattled Ralera",
+        "Starting Settlement Region": "Lurelin Village, East Necluda",
+        "Quest Giver": "Ralera",
+        "Reward": "New Glider Design",
+        "Completed": "Rattled Ralera"
+    },
+    {
+        "id": 105,
+        "Side Quest Name": "A Picture for Dueling Peaks Stable",
+        "Starting Settlement Region": "Dueling Peaks Stable, West Necluda",
+        "Quest Giver": "Tasseren",
+        "Reward": "Pony PointHasty Apple Pie",
+        "Completed": "A Picture for Dueling Peaks Stable"
+    },
+    {
+        "id": 106,
+        "Side Quest Name": "A Bottled Cry for Help",
+        "Starting Settlement Region": "Hateno Bay, East Necluda",
+        "Quest Giver": "Message in a Bottle",
+        "Reward": "100 Rupees",
+        "Completed": "A Bottled Cry for Help"
+    },
+    {
+        "id": 107,
+        "Side Quest Name": "Seeking the Pirate Hideout",
+        "Starting Settlement Region": "Eventide Island, East Necluda",
+        "Quest Giver": "Sesami",
+        "Reward": "Blue-Maned Lynel Saber Horn",
+        "Completed": "Seeking the Pirate Hideout"
+    },
+    {
+        "id": 108,
+        "Side Quest Name": "Ousting The Giants",
+        "Starting Settlement Region": "Lakeside Stable, Faron",
+        "Quest Giver": "Kampo",
+        "Reward": "Mighty Fried Bananas",
+        "Completed": "Ousting The Giants"
+    },
+    {
+        "id": 109,
+        "Side Quest Name": "A Picture for Lakeside Stable",
+        "Starting Settlement Region": "Lakeside Stable, Faron",
+        "Quest Giver": "Anly",
+        "Reward": "Pony PointTough Tomato Seafood Soup",
+        "Completed": "A Picture for Lakeside Stable"
+    },
+    {
+        "id": 110,
+        "Side Quest Name": "A Picture for Highland Stable",
+        "Starting Settlement Region": "Highland Stable, Faron",
+        "Quest Giver": "Padok",
+        "Reward": "Pony PointEnergizing Honey Crepe",
+        "Completed": "A Picture for Highland Stable"
+    },
+    {
+        "id": 111,
+        "Side Quest Name": "The Heroines' Secret",
+        "Starting Settlement Region": "Gerudo Town, Gerudo Desert",
+        "Quest Giver": "Rotana",
+        "Reward": "100 Rupees",
+        "Completed": "The Heroines' Secret"
+    },
+    {
+        "id": 112,
+        "Side Quest Name": "Treasure of the Gerudo Desert",
+        "Starting Settlement Region": "Gerudo Town, Gerudo Desert",
+        "Quest Giver": "Riju",
+        "Reward": "Vah Naboris Divine Helm",
+        "Completed": "Treasure of the Gerudo Desert"
+    },
+    {
+        "id": 113,
+        "Side Quest Name": "Pride of the Gerudo",
+        "Starting Settlement Region": "Gerudo Town, Gerudo Desert",
+        "Quest Giver": "Isha",
+        "Reward": "Scimitar of the SevenDaybreaker Shield",
+        "Completed": "Pride of the Gerudo"
+    },
+    {
+        "id": 114,
+        "Side Quest Name": "Dalia's Game",
+        "Starting Settlement Region": "Gerudo Town, Gerudo Desert",
+        "Quest Giver": "Dalia",
+        "Reward": "Orb",
+        "Completed": "Dalia's Game"
+    },
+    {
+        "id": 115,
+        "Side Quest Name": "The Mysterious Eighth",
+        "Starting Settlement Region": "Gerudo Town, Gerudo Desert",
+        "Quest Giver": "Rotana",
+        "Reward": "Diamondx7 Hydromelon",
+        "Completed": "The Mysterious Eighth"
+    },
+    {
+        "id": 116,
+        "Side Quest Name": "The Missing Owner",
+        "Starting Settlement Region": "Gerudo Town, Gerudo Desert",
+        "Quest Giver": "Cara",
+        "Reward": "Diamond",
+        "Completed": "The Missing Owner"
+    },
+    {
+        "id": 117,
+        "Side Quest Name": "To the Ruins!",
+        "Starting Settlement Region": "Gerudo Town, Gerudo Desert",
+        "Quest Giver": "Pokki",
+        "Reward": "100 Rupees",
+        "Completed": "To the Ruins!"
+    },
+    {
+        "id": 118,
+        "Side Quest Name": "Decorate with Passion",
+        "Starting Settlement Region": "Kara Kara Bazaar, Gerudo Desert",
+        "Quest Giver": "Boraa",
+        "Reward": "Electric Keese Eye",
+        "Completed": "Decorate with Passion"
+    },
+    {
+        "id": 119,
+        "Side Quest Name": "Lost in the Dunes",
+        "Starting Settlement Region": "Kara Kara Bazaar, Gerudo Desert",
+        "Quest Giver": "Benja",
+        "Reward": "Orb",
+        "Completed": "Lost in the Dunes"
+    },
+    {
+        "id": 120,
+        "Side Quest Name": "A Picture for Closed Stable I",
+        "Starting Settlement Region": "Gerudo Canyon Stable, Gerudo Canyon",
+        "Quest Giver": "Piaffe",
+        "Reward": "Pony PointChilly Mushroom Risotto",
+        "Completed": "A Picture for Closed Stable I"
+    },
+    {
+        "id": 121,
+        "Side Quest Name": "A Picture for Closed Stable II",
+        "Starting Settlement Region": "Gerudo Canyon Stable, Gerudo Canyon",
+        "Quest Giver": "Piaffe",
+        "Reward": "Pony PointSpicy Mushroom Risotto",
+        "Completed": "A Picture for Closed Stable II"
+    },
+    {
+        "id": 122,
+        "Side Quest Name": "Piaffe, Packed Away",
+        "Starting Settlement Region": "Gerudo Canyon Stable, Gerudo Canyon",
+        "Quest Giver": "Piaffe",
+        "Reward": "Pony Point",
+        "Completed": "Piaffe, Packed Away"
+    },
+    {
+        "id": 123,
+        "Side Quest Name": "Gleeok Guts",
+        "Starting Settlement Region": "Gerudo Canyon",
+        "Quest Giver": "Malena",
+        "Reward": "300 Rupees",
+        "Completed": "Gleeok Guts"
+    },
+    {
+        "id": 124,
+        "Side Quest Name": "Disaster in Gerudo Canyon",
+        "Starting Settlement Region": "Gerudo Canyon Pass",
+        "Quest Giver": "Qunice",
+        "Reward": "x10 Bomb Flower",
+        "Completed": "Disaster in Gerudo Canyon"
+    },
+    {
+        "id": 125,
+        "Side Quest Name": "The Great Tumbleweed Purge",
+        "Starting Settlement Region": "Daval Peak, Gerudo Canyon",
+        "Quest Giver": "Barles",
+        "Reward": "Royal Shield",
+        "Completed": "The Great Tumbleweed Purge"
+    },
+    {
+        "id": 126,
+        "Side Quest Name": "Heat-Endurance Contest!",
+        "Starting Settlement Region": "Mount Granajh, Gerudo Canyon",
+        "Quest Giver": "Rahdo",
+        "Reward": "300 Rupees",
+        "Completed": "Heat-Endurance Contest!"
+    },
+    {
+        "id": 127,
+        "Side Quest Name": "Cold-Endurance Contest!",
+        "Starting Settlement Region": "Mount Granajh, Gerudo Canyon",
+        "Quest Giver": "Rahdo",
+        "Reward": "100 Rupees",
+        "Completed": "Cold-Endurance Contest!"
+    },
+    {
+        "id": 128,
+        "Side Quest Name": "The Iceless Icehouse",
+        "Starting Settlement Region": "Northern Icehouse, Gerudo Highlands",
+        "Quest Giver": "Anche",
+        "Reward": "50 Rupees",
+        "Completed": "The Iceless Icehouse"
+    },
+    {
+        "id": 129,
+        "Side Quest Name": "Where Are the Wells?",
+        "Starting Settlement Region": "South Akkala Stable Well",
+        "Quest Giver": "Fera",
+        "Reward": "10 Rupees per Well LocationAll's Well (after finding all wells)",
+        "Completed": "Where Are the Wells?"
+    },
+    {
+        "id": 130,
+        "Side Quest Name": "Ancient Blades Below",
+        "Starting Settlement Region": "Spirit Temple",
+        "Quest Giver": "Mining Construct",
+        "Reward": "Ancient Blade",
+        "Completed": "Ancient Blades Below"
+    },
+    {
+        "id": 131,
+        "Side Quest Name": "The North Lomei Prophecy",
+        "Starting Settlement Region": "North Lomei Labyrinth, Hebra",
+        "Quest Giver": "Mysterious Voice",
+        "Reward": "Evil Spirit Greaves",
+        "Completed": "The North Lomei Prophecy"
+    },
+    {
+        "id": 132,
+        "Side Quest Name": "The Lomei Labyrinth Island Prophecy",
+        "Starting Settlement Region": "Lomei Labyrinth Island, Akkala",
+        "Quest Giver": "Mysterious Voice",
+        "Reward": "Evil Spirit Armor",
+        "Completed": "The Lomei Labyrinth Island Prophecy"
+    },
+    {
+        "id": 133,
+        "Side Quest Name": "The South Lomei Prophecy",
+        "Starting Settlement Region": "South Lomei Labyrinth, Gerudo",
+        "Quest Giver": "Mysterious Voice",
+        "Reward": "Evil Spirit Mask",
+        "Completed": "The South Lomei Prophecy"
+    },
+    {
+        "id": 134,
+        "Side Quest Name": "Goddess Statue of Wisdom",
+        "Starting Settlement Region": "Spring of Wisdom, Mount Lanayru",
+        "Quest Giver": "Goddess Statue",
+        "Reward": "Sapphire",
+        "Completed": "Goddess Statue of Wisdom"
+    },
+    {
+        "id": 135,
+        "Side Quest Name": "Goddess Statue of Power",
+        "Starting Settlement Region": "Spring of Power, Akkala",
+        "Quest Giver": "Goddess Statue",
+        "Reward": "Ruby",
+        "Completed": "Goddess Statue of Power"
+    },
+    {
+        "id": 136,
+        "Side Quest Name": "Goddess Statue of Courage",
+        "Starting Settlement Region": "Spring of Courage, Faron",
+        "Quest Giver": "Goddess Statue",
+        "Reward": "Topaz",
+        "Completed": "Goddess Statue of Courage"
+    },
+    {
+        "id": 137,
+        "Side Quest Name": "The Mother Goddess Statue",
+        "Starting Settlement Region": "Forgotten Temple, Hyrule Ridge",
+        "Quest Giver": "Goddess Statue",
+        "Reward": "White Sword of the Sky",
+        "Completed": "The Mother Goddess Statue"
+    },
+    {
+        "id": 138,
+        "Side Quest Name": "The Shrine Explorer",
+        "Starting Settlement Region": "Shrine of Light",
+        "Quest Giver": "Rauru",
+        "Reward": "Ancient Hero's Aspect",
+        "Completed": "The Shrine Explorer"
+    }
+]
