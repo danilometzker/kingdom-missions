@@ -20,7 +20,8 @@
         "Side Quest Name": "Today's Menu",
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Burmano",
-        "Reward": "Fruit and Mushroom Mix"
+        "Reward": "Fruit and Mushroom Mix",
+        "Guide": "https://www.youtube.com/watch?v=hwDANXYhILE&pp=ygUSdG9kYXkncyBtZW51IHplbGRh"
     },
     {
         "id": 3,
@@ -100,7 +101,6 @@
         "Starting Settlement Region": "Riverside Stable, Central Hyrule",
         "Quest Giver": "Teli",
         "Reward": "100 Rupees",
-        "Completed": "Feathered Fugitives",
         "Guide": "https://www.youtube.com/watch?v=IV5mb4uvIGU&pp=ygUoRmVhdGhlcmVkIEZ1Z2l0aXZlcyBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
@@ -109,7 +109,6 @@
         "Starting Settlement Region": "Riverside Stable, Central Hyrule",
         "Quest Giver": "Ember",
         "Reward": "Pony PointEnergizing Crab Stir-Fry",
-        "Completed": "A Picture for Riverside Stable",
         "Guide": "https://www.youtube.com/watch?v=1TAjyYYteXg&pp=ygUzQSBQaWN0dXJlIGZvciBSaXZlcnNpZGUgU3RhYmxlIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
@@ -118,7 +117,6 @@
         "Starting Settlement Region": "New Serenne Stable, Hyrule Ridge",
         "Quest Giver": "Zumi",
         "Reward": "100 Rupees",
-        "Completed": "Horse-Drawn Dreams",
         "Guide": "https://www.youtube.com/watch?v=A8bVSEDGaDA&pp=ygUnSG9yc2UtRHJhd24gRHJlYW1zIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
@@ -127,7 +125,7 @@
         "Starting Settlement Region": "New Serenne Stable, Hyrule Ridge",
         "Quest Giver": "Sprinn",
         "Reward": "Pony PointBright Tomato Mushroom Stew",
-        "Completed": "A Picture for New Serenne Stable"
+        "Guide": "https://www.youtube.com/watch?v=0zT3jOdcKhg&pp=ygU1QSBQaWN0dXJlIGZvciBOZXcgU2VyZW5uZSBTdGFibGUgbGl2ZSBnYW1pbmcgcGFyYWRpc2U%3D"
     },
     {
         "id": 16,
@@ -135,7 +133,7 @@
         "Starting Settlement Region": "Rito Village, Tabantha Frontier",
         "Quest Giver": "Genli",
         "Reward": "Biting Simmered Meat",
-        "Completed": "Genli's Home Cooking"
+        "Guide": "https://www.youtube.com/watch?v=0zT3jOdcKhg&pp=ygU1QSBQaWN0dXJlIGZvciBOZXcgU2VyZW5uZSBTdGFibGUgbGl2ZSBnYW1pbmcgcGFyYWRpc2U%3D"
     },
     {
         "id": 17,
@@ -143,7 +141,7 @@
         "Starting Settlement Region": "Rito Village, Tabantha Frontier",
         "Quest Giver": "Tulin",
         "Reward": "Vah Medoh Divine Helm",
-        "Completed": "Treasure of the Secret Springs"
+        "Guide": "https://www.youtube.com/watch?v=xvTfuSM7NLk&pp=ygUzVHJlYXN1cmUgb2YgdGhlIFNlY3JldCBTcHJpbmdzIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 18,
@@ -151,7 +149,7 @@
         "Starting Settlement Region": "Rito Village, Tabantha Frontier",
         "Quest Giver": "Molli",
         "Reward": "x10 Arrows",
-        "Completed": "Molli the Fletcher's Quest"
+        "Guide": "https://www.youtube.com/watch?v=oGH2G7KmleE&pp=ygUvTW9sbGkgdGhlIEZsZXRjaGVyJ3MgUXVlc3QgbGl2ZSBnYW1pbmcgcGFyYWRpc2U%3D"
     },
     {
         "id": 19,
@@ -159,7 +157,7 @@
         "Starting Settlement Region": "Rito Village, Tabantha Frontier",
         "Quest Giver": "Teba",
         "Reward": "Great Eagle Bow",
-        "Completed": "Legacy of the Rito"
+        "Guide": "https://www.youtube.com/watch?v=ClsoWmZoABY&pp=ygUnTGVnYWN5IG9mIHRoZSBSaXRvIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 20,
@@ -167,7 +165,7 @@
         "Starting Settlement Region": "Rito Village, Tabantha Frontier",
         "Quest Giver": "Bedoli",
         "Reward": "x10 Arrows",
-        "Completed": "Fish for Fletching"
+        "Guide": "https://www.youtube.com/watch?v=RsjsVm56KMA&pp=ygUnRmlzaCBmb3IgRmxldGNoaW5nIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 21,
@@ -175,7 +173,8 @@
         "Starting Settlement Region": "Lucky Clover Gazette, Tabantha Frontier",
         "Quest Giver": "Gesane",
         "Reward": "100 Rupees",
-        "Completed": "The Rito Rope Bridge"
+        "Completed": "The Rito Rope Bridge",
+        "Guide": "https://www.youtube.com/watch?v=NjEKYdgaauQ&pp=ygUpVGhlIFJpdG8gUm9wZSBCcmlkZ2UgbGl2ZSBnYW1pbmcgcGFyYWRpc2U%3D"
     },
     {
         "id": 22,
@@ -183,7 +182,8 @@
         "Starting Settlement Region": "Tabantha Bridge Stable, Hyrule Ridge",
         "Quest Giver": "Dabi",
         "Reward": "Pony PointHasty Elixir",
-        "Completed": "A Picture for Tabantha Bridge Stable"
+        "Completed": "A Picture for Tabantha Bridge Stable",
+        "Guide": "https://www.youtube.com/watch?v=0rJvvAVEK5k&pp=ygU5QSBQaWN0dXJlIGZvciBUYWJhbnRoYSBCcmlkZ2UgU3RhYmxlIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 23,
@@ -191,7 +191,7 @@
         "Starting Settlement Region": "Snowfield Stable, Hebra Tabantha Tundra",
         "Quest Giver": "Varke",
         "Reward": "Pony PointSpicy Meat Stew",
-        "Completed": "A Picture for Snowfield Stable"
+        "Guide": "https://www.youtube.com/watch?v=Ex9Oa7CUFlQ&pp=ygUzQSBQaWN0dXJlIGZvciBTbm93ZmllbGQgU3RhYmxlIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 24,
@@ -199,7 +199,7 @@
         "Starting Settlement Region": "Corvash Peak, Hebra Mountains",
         "Quest Giver": "Verla",
         "Reward": "50 Rupees",
-        "Completed": "Crossing the Cold Pool"
+        "Guide": "https://www.youtube.com/watch?v=2GmEo4f6M4A&pp=ygUrQ3Jvc3NpbmcgdGhlIENvbGQgUG9vbCBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
         "id": 25,
@@ -207,7 +207,7 @@
         "Starting Settlement Region": "Tabantha Hills, Hebra",
         "Quest Giver": "Jogo",
         "Reward": "Spicy Elixir",
-        "Completed": "Open the Door"
+        "Guide": "https://www.youtube.com/watch?v=MyL1CgtrODI&pp=ygUib3BlbiB0aGUgZG9vciB0ZWFycyBvZiB0aGUga2luZ2RvbQ%3D%3D"
     },
     {
         "id": 26,
@@ -215,7 +215,7 @@
         "Starting Settlement Region": "Tabantha Hills, Hebra",
         "Quest Giver": "Huck",
         "Reward": "50 Rupees",
-        "Completed": "Supply-Eyeing Fliers"
+        "Guide": "https://www.youtube.com/watch?v=cmEMKQAvx6k&pp=ygUvU3VwcGx5LUV5ZWluZyBGbGllcnMgbGl2ZSBnYW1pbmcgcGFyYWRpc2UgemVsZGE%3D"
     },
     {
         "id": 27,

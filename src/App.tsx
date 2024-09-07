@@ -45,6 +45,11 @@ function App() {
             ...colWidth,
         },
         {
+            field: "Reward",
+            headerName: "Recompensa",
+            ...colWidth,
+        },
+        {
             field: "Guide",
             headerName: "Tutorial",
             ...colWidth,
