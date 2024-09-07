@@ -5,7 +5,6 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Lester",
         "Reward": "50 RupeesSwift CarrotSpot the Horse",
-        "Completed": "Spotting Spot",
         "Guide": "https://www.youtube.com/watch?v=DDkq6gI_bUw&pp=ygUiU3BvdHRpbmcgU3BvdCBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
@@ -14,15 +13,14 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Garini",
         "Reward": "Mighty Salt-Grilled Crab",
-        "Completed": "Village Attacked by Pirates"
+        "Guide": "https://www.youtube.com/watch?v=5rbIuNNxZfk&pp=ygUwVmlsbGFnZSBBdHRhY2tlZCBieSBQaXJhdGVzIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 2,
         "Side Quest Name": "Today's Menu",
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Burmano",
-        "Reward": "Fruit and Mushroom Mix",
-        "Completed": "Today's Menu"
+        "Reward": "Fruit and Mushroom Mix"
     },
     {
         "id": 3,
@@ -30,7 +28,7 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Karson",
         "Reward": "Mini Stable",
-        "Completed": "The Incomplete Stable"
+        "Guide": "https://www.youtube.com/watch?v=Ctxa00B19hc&pp=ygUqVGhlIEluY29tcGxldGUgU3RhYmxlIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 4,
@@ -38,7 +36,7 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Gralens",
         "Reward": "100 Rupees",
-        "Completed": "WANTED: Stone Talus"
+        "Guide": "https://www.youtube.com/watch?v=1O2Pkjtz6v0&pp=ygUoV0FOVEVEOiBTdG9uZSBUYWx1cyBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
         "id": 5,
@@ -46,7 +44,7 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Gralens",
         "Reward": "100 Rupees",
-        "Completed": "WANTED: Molduga"
+        "Guide": "https://www.youtube.com/watch?v=vFPk1esLHQk&pp=ygUkV0FOVEVEOiBNb2xkdWdhIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 6,
@@ -54,7 +52,7 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Gralens",
         "Reward": "100 Rupees",
-        "Completed": "WANTED: Hinox"
+        "Guide": "https://www.youtube.com/watch?v=cKl5n5iLyeM&pp=ygUiV0FOVEVEOiBIaW5veCBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
         "id": 7,
@@ -62,7 +60,7 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Gralens",
         "Reward": "100 Rupees",
-        "Completed": "Unknown Sky Giant"
+        "Guide": "https://www.youtube.com/watch?v=bnFVg2l8Gkg&pp=ygUmVW5rbm93biBTa3kgR2lhbnQgbGl2ZSBnYW1pbmcgcGFyYWRpc2U%3D"
     },
     {
         "id": 8,
@@ -70,7 +68,7 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Gralens",
         "Reward": "100 Rupees",
-        "Completed": "Unknown Three-Headed Monster"
+        "Guide": "https://www.youtube.com/watch?v=RnWAHbLJOSA&pp=ygUxVW5rbm93biBUaHJlZS1IZWFkZWQgTW9uc3RlciBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
         "id": 9,
@@ -78,7 +76,7 @@
         "Starting Settlement Region": "Lookout Landing, Central Hyrule",
         "Quest Giver": "Gralens",
         "Reward": "100 Rupees",
-        "Completed": "Unknown Huge Silhouette"
+        "Guide": "https://www.youtube.com/watch?v=P9Biaqi-Qck&pp=ygUsVW5rbm93biBIdWdlIFNpbGhvdWV0dGUgbGl2ZSBnYW1pbmcgcGFyYWRpc2U%3D"
     },
     {
         "id": 10,
@@ -86,7 +84,7 @@
         "Starting Settlement Region": "Outskirt Stable, Central Hyrule",
         "Quest Giver": "Toffa",
         "Reward": "100 RupeesPony Point",
-        "Completed": "The Horse Guard's Request"
+        "Guide": "https://www.youtube.com/watch?v=unMIBY49eyw&pp=ygUuVGhlIEhvcnNlIEd1YXJkJ3MgUmVxdWVzdCBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
         "id": 11,
@@ -94,7 +92,7 @@
         "Starting Settlement Region": "Outskirt Stable, Central Hyrule",
         "Quest Giver": "Embry",
         "Reward": "Pony PointEgg Tart",
-        "Completed": "A Picture for Outskirt Stable"
+        "Guide": "https://www.youtube.com/watch?v=vl3eBoX1gsI&pp=ygUyQSBQaWN0dXJlIGZvciBPdXRza2lydCBTdGFibGUgbGl2ZSBnYW1pbmcgcGFyYWRpc2U%3D"
     },
     {
         "id": 12,
@@ -102,7 +100,8 @@
         "Starting Settlement Region": "Riverside Stable, Central Hyrule",
         "Quest Giver": "Teli",
         "Reward": "100 Rupees",
-        "Completed": "Feathered Fugitives"
+        "Completed": "Feathered Fugitives",
+        "Guide": "https://www.youtube.com/watch?v=IV5mb4uvIGU&pp=ygUoRmVhdGhlcmVkIEZ1Z2l0aXZlcyBsaXZlIGdhbWluZyBwYXJhZGlzZQ%3D%3D"
     },
     {
         "id": 13,
@@ -110,7 +109,8 @@
         "Starting Settlement Region": "Riverside Stable, Central Hyrule",
         "Quest Giver": "Ember",
         "Reward": "Pony PointEnergizing Crab Stir-Fry",
-        "Completed": "A Picture for Riverside Stable"
+        "Completed": "A Picture for Riverside Stable",
+        "Guide": "https://www.youtube.com/watch?v=1TAjyYYteXg&pp=ygUzQSBQaWN0dXJlIGZvciBSaXZlcnNpZGUgU3RhYmxlIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 14,
@@ -118,7 +118,8 @@
         "Starting Settlement Region": "New Serenne Stable, Hyrule Ridge",
         "Quest Giver": "Zumi",
         "Reward": "100 Rupees",
-        "Completed": "Horse-Drawn Dreams"
+        "Completed": "Horse-Drawn Dreams",
+        "Guide": "https://www.youtube.com/watch?v=A8bVSEDGaDA&pp=ygUnSG9yc2UtRHJhd24gRHJlYW1zIGxpdmUgZ2FtaW5nIHBhcmFkaXNl"
     },
     {
         "id": 15,
