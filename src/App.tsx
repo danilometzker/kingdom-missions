@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { DataGrid, GridColDef, GridToolbar } from "@mui/x-data-grid";
 import Paper from "@mui/material/Paper";
-import { ThemeProvider, createTheme } from "@mui/material/styles";
+import { ThemeProvider, createTheme, useTheme } from "@mui/material/styles";
 import Quests from "./quests.json";
 import Logo from "./assets/logo.webp";
+import useMediaQuery from "@mui/material/useMediaQuery";
 
 const darkTheme = createTheme({
     palette: {
@@ -15,26 +16,38 @@ function App() {
     const [selected, setSelected] = useState<number[] | null>(
         JSON.parse(localStorage.getItem("selected") || "{}")
     );
+
+    const theme = useTheme();
+    const isSmScreen = useMediaQuery(theme.breakpoints.down("sm"));
+
+    const colWidth = isSmScreen
+        ? {
+              width: 200,
+          }
+        : {
+              flex: 1,
+          };
+
     const columns: GridColDef[] = [
         {
             field: "Side Quest Name",
             headerName: "Missão",
-            flex: 1,
+            ...colWidth,
         },
         {
             field: "Starting Settlement Region",
             headerName: "Região",
-            flex: 1,
+            ...colWidth,
         },
         {
             field: "Quest Giver",
             headerName: "Falar com",
-            flex: 1,
+            ...colWidth,
         },
         {
             field: "Guide",
             headerName: "Tutorial",
-            flex: 1,
+            ...colWidth,
             renderCell: (value) => {
                 if (!value) {
                     return value;
